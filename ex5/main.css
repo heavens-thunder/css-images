@@ -1,0 +1,18 @@
+h2 {
+    border: 1px solid #666;
+    border-radius: 20px;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    background: white;
+    padding-top: 72px;
+    text-align: center;
+    background: 
+    url(../images/21614.jpg) top center no-repeat, 
+    url(../images/21617.jpg) 40% 24px no-repeat, 
+    url(../images/21613.jpg) 60% 24px no-repeat, 
+    url(../images/21615.jpg) 50% 50% repeat-x, 
+    url(../images/21618.png) 3em 3em repeat-x, 
+    url(../images/21603.jpg) center no-repeat;
+    font-family: "Gill Sans", Trebuchet, Calibri, sans-serif;
+    color: #666;
+}

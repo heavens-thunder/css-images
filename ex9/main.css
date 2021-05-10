@@ -1,0 +1,13 @@
+div.building {
+    border: 1px solid #666;
+    float: left;
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    background-image:
+    -webkit-gradient(radial,center center,900,center
+    bottom,10,from(#0cf),to(rgb(121, 55, 55)));
+    background-image: -moz-radial-gradient(center,900px,center
+    bottom,12,from(#0cf),to(white));
+    background-repeat: no-repeat;
+    }

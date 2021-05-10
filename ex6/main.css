@@ -1,0 +1,14 @@
+#section
+ {
+    margin-right: 40px;
+    color: rgb(20, 1, 1);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 100px;
+    text-align: center;
+    border-style: solid;
+    border-color: rgb(216, 199, 190);
+    border-width: 100px 105px 108px 120px;
+    border-image: url(../images/21606.jpg) 260 390 370 430 stretch stretch;
+    -webkit-border-image: url(../images/21606.jpg) 260 390 370 430 stretch stretch;
+    -moz-border-image: url(../images/21606.jpg) 260 390 370 430 stretch round;
+}

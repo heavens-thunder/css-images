@@ -1,0 +1,12 @@
+img {
+    display: block;
+    float: left;
+    margin: 20px;
+    width: 200px;
+}
+img+img {
+    transform: rotate(270deg);
+    -webkit-transform: rotate(270deg);
+    -moz-transform: rotate(270deg);
+    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+    }

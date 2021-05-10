@@ -1,0 +1,19 @@
+img {
+    width: 300px;
+    border: 20px solid rgba(150, 8, 233, 0.349);
+    background: #fff;
+    padding: 22px;
+}
+
+a:hover img {
+    border-style: solid;
+    background: rgb(95, 10, 206);
+}
+
+.leftFloat {
+    float: left
+}
+
+.rightFloat {
+    float: right
+}
